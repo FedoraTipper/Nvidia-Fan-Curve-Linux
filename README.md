@@ -28,3 +28,10 @@ Nvidia Speed Fan Control - Fan Curve
 	<b>How to run on start up:</b>
 	<br>You should have a tweak tool to enable it to run on startup</br>
 </p>
+<p>
+	<b>Notes:</b>
+	<ul>
+		<li>If you are running gtx 700 or newer series of graphics card, you will be able to set speeds to 0. Any older cards 	will cause the script to crash.</li>
+		<li>If you are running an older nvidia binary driver, and the script isn't setting the speed. Consider changing GPUTargetFanSpeed to GPUCurrentFanSpeed</li>
+	</ul>
+</p>
