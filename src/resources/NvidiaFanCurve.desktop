@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NvidiaFanCurve
+Comment=Automated Fan Control for Nvidia GPUs
+Exec={1}
+Terminal=false
+
+Name[en_GB]=NvidiaFanCurve

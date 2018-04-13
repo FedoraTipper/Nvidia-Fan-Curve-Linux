@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=NvidiaSpeedFan
-Comment=Auto GPU Fan Control
-Exec=#fill in path to script
-Terminal=false
-
-Name[en_GB]=NvidiaSpeedFan
