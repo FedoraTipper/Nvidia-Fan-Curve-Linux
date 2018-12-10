@@ -1,5 +1,5 @@
 # Nvidia-Fan-Curve---Linux
-Nvidia Speed Fan Control - Fan Curve
+Nvidia Speed Fan Control - Fan Curve (Unmaintained for now. GUI on the way.)
 <p>
 	<b>Prerequisites</b>
 	<br>Run the command "sudo nvidia-xconfig --cool-bits 4"</br>
